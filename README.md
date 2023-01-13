@@ -29,7 +29,7 @@ Likewise, the description is always ignored.
 
 (Coming soon)
 
-# You can check a variety of code I've written, executed in an online SPL compiler:
+## You can check code I've written, executed in an online SPL compiler:
 - [x] <a href="https://tio.run/##rVRNj9MwED03v2J64lL1B@wFrRCIol0hUYSEEIeJMy
          HW@iOyxy3hz5ex45YsapEQ3NL6zfuY5ySO5nT6OBC80a13qJSGV2hUMsjau7gBhNHgBNoBHz2g4gg8IIMj6iJEbwm0HYM/kCXH
          26b5IH/5DXhH4HvBLqldsi2FCOi6cjIGOmifYkZvm3fJaOJNOYmkvIB@H90278eBjMYZZbwfC9kBg8bWEMgUB29Mhj6iaomHGf
