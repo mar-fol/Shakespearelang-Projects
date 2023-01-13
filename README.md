@@ -19,6 +19,7 @@ For a valid SPL, a title is always needed.
 ```
 Play Title, Description
 ```
+The description of the play is marked as a comment and ignored.
 ## Setting Variables
 Variables are named after Shakespearian characters.
 ```
