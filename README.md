@@ -1,5 +1,5 @@
 # A Quick Guide to Shakespeare Programming Language (SPL)
-The Shakespeare Programming Language (SPL) is an esoteric programming language. 
+The Shakespeare Programming Language (SPL) is an esoteric programming language, emulating Shakespearean plays.
 
 ## Installation
 
