@@ -3,7 +3,7 @@ The Fibonacci Calculations, a play in two acts that needs some improvement.
 Romeo, one of the Fibonacci numbers and the previous one.
 Juliet, the second Fibonacci number.
 Ophelia, the loop and variable controller.
-Macbeth, the king utilized as a space and as the end of the loop (i=0;i<32;i++).
+Macbeth, the king utilized as a space and as the end of the loop.
 
 
 			Act I: The Fibonacci Calculation.
@@ -20,19 +20,7 @@ Ophelia:
 
 Ophelia:
   Open your heart!
-
-[Exit Romeo]
-[Enter Macbeth]
-
-Ophelia:
- Speak your mind!
-
-[Exit Macbeth]
-[Enter Romeo]
-
-Ophelia:
   You animal.
-  Open your heart!
 
 [Exit Romeo]
 [Enter Macbeth]
@@ -71,4 +59,3 @@ Macbeth:
  If so, let us proceed to scene II.
 
 [Exeunt]
-
