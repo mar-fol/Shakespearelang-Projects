@@ -30,13 +30,6 @@ Likewise, the description is always ignored.
 (Coming soon)
 
 ## You can check code I've written, executed in an online SPL compiler:
-- [x] <a href="https://tio.run/##rVRNj9MwED03v2J64lL1B@wFrRCIol0hUYSEEIeJMy
-         HW@iOyxy3hz5ex45YsapEQ3NL6zfuY5ySO5nT6OBC80a13qJSGV2hUMsjau7gBhNHgBNoBHz2g4gg8IIMj6iJEbwm0HYM/kCXH
-         26b5IH/5DXhH4HvBLqldsi2FCOi6cjIGOmifYkZvm3fJaOJNOYmkvIB@H90278eBjMYZZbwfC9kBg8bWEMgUB29Mhj6iaomHGf
-         qk3TdIrI3@QR2geIA4oqIyjrFgSB6r58wsYZrVanWvGHZ3cHNJ24zaK5LAFbZzmjWKUjnPlAhvyYx9MvCpOpWpL68dU4CaqBip
-         lr8255x3jTD6BBg4u5SFMU@z/ZZQ8mTOHnWAkSRN/hWTcxMcMVh5tJbCiwgdTuss@F3zL42qXwp7piiWyMHkU4CBRPkyWqF18J
-         rZvdh4mketdt3fiH7OMZ22aLb/2cLq0k8taM95n7Xqh7nq6z7nO/nc6PVCyq1NNrNm7UimL5UWw@s/JDpL3NzMUq8NeKCzXKf7
-         ngI5ucVi@kjCP5PVF2zKJv5pcxV18xYuQle5@X2CwcsG1kvyews7cJ6z1WxAviLusqmXS6ldL9@VDRjJkbKYV/KtAfYQa4lzW5
-         RcLuZ0@gk" title="Shakespeare Programming Language – Try It Online">Fibonacci code in SPL</a>
+- [x] <a href="https://tio.run/##pVPLrtMwEF03XzFZsanyAXeDrhCIIhASRUgIsZg4E2Jdexz50RJ@vowdF3JRu2LnxMfn5XGYzeXyeSJ4o3vHqJSGV2hUMhi147AHhNngApohnh2gigHihBGYaAgQnCXQdvbuRJY4dk3zSX65PTgmcKNgt9ScbE8@APJQdmZPJ@1SyOiueZeMprgvO4GUE9C/R7vm4zyR0biijHNzITuh19gbAjkVvTMmQz@g6ilOK/RJ8w9IURv9iwZA8QBhRkXlOIaCIVlWz5lZwjS73e5RRTg8wN2Suow6KpLAFXZgHTWKUtnPlAhvycxjMvClOpVT315zJA81UTFSLX9vrjkfGmF0CdDH7FIKi3FZ7feEkidzjqg9zCRp8ldIzAuc0VtZWkv@RYABlzYL/tTxr0bVLxf2TFEsEcPikoeJRLmVX1@zCdYWTXclqgcrzS3rRzH1tBJZzUNb@qxV1a6OMUerrb9fW7/tcx2P50Zvd1MGKNnMmrUDmbG0Wwy3t/JVyavE3Wa2er3HE13lBj2O5IlloMT0mYR/JauzvmQT7f80V1F3B2ITusqtow2TkwbaLfmjhQOwi9lqNiAPmv809XIrdRjlie/BSI6UxZySZw/RQaiXuN4WJZbWLpff" title="Shakespeare Programming Language – Try It Online">Fibonacci sequence in SPL</a>
  - [ ] Harmonic Sequence in SPL
 
