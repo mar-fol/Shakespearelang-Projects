@@ -10,8 +10,9 @@ pip install shakespearelang
 ```
 
 Make sure that if you are using PyCharm, to install the library through the compiler:
-> You will have to go to File > New Project Setup > Settings for new Projects..
-install and import the library there.
+> You will have to go to File -> New Project Setup -> Settings for new Projects.
+
+Install and import the library there, searching it by its name.
 
 ## Starting the Program
 For a valid SPL, a title is always needed.
